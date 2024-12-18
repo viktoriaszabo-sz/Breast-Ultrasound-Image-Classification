@@ -7,4 +7,4 @@ For this, we used the Breast Ultrasound Images Dataset, openly available dataset
 
 Feed-forward performs well only with pre-processed data, so in order to build up the model, data augmentation and normalization is needed. These were later fed into the training model, and the evaluation part validated the accuracy. As a final step, we implement a small testing phase, where the model classifies a random image from the dataset, which results in the following figure:  
 
-![malignant](prediction_of_image-2.png)
+![malignant](prediction_of_image.png)
